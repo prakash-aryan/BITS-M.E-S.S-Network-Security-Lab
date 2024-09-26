@@ -60,9 +60,12 @@ This application is implemented in Rust using the `eframe` library for the graph
 
 ### Additive Cipher Example
 
+![Screenshot 2024-09-26 130310](https://github.com/user-attachments/assets/8a451862-8f7e-4397-82e3-96912dbad65a)
 
 
 ### Rail Fence Cipher Example
+
+![Screenshot 2024-09-26 130404](https://github.com/user-attachments/assets/14f41edc-4ac3-4ee9-a342-9fbee226be26)
 
 
 
