@@ -1,0 +1,21 @@
+[package]
+name = "cipher_app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.21.3"
+
+[target.'cfg(windows)'.build-dependencies]
+winres = "0.1"
+
+[package.metadata.winres]
+OriginalFilename = "cipher_app.exe"
+LegalCopyright = "Copyright © 2024"
+
+[[bin]]
+name = "cipher_app"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 2

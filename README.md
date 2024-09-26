@@ -39,6 +39,24 @@ Key files:
 
 This lab demonstrates advanced ACL implementation techniques, including selective blocking of specific hosts and managing traffic flow across multiple network segments.
 
+### [Week 3: Lab Three - Cipher Application](./LabThree)
+
+In this lab, we developed a Rust-based application that implements two cipher algorithms: Additive Cipher (Caesar Cipher) and Rail Fence Cipher. The main objectives were:
+
+1. Implement the Additive Cipher algorithm
+2. Implement the Rail Fence Cipher algorithm
+3. Create a graphical user interface for the cipher application
+4. Provide encryption functionality for both ciphers
+5. Visualize the Rail Fence Cipher matrix
+
+Key files:
+- [src/main.rs](./LabThree/src/main.rs): Main Rust source code for the cipher application
+- [cipher_app.exe](./LabThree/cipher_app.exe): Executable file for Windows
+- [README.md](./LabThree/README.md): Detailed explanation of the cipher algorithms and application usage
+- [app_icon.ico](./LabThree/app_icon.ico): Application icon
+
+This lab demonstrates the implementation of cryptographic algorithms and the development of a user-friendly interface for encryption tasks. The application provides a practical tool for understanding basic encryption techniques.
+
 ## License
 
 This project is licensed under the terms included in the [LICENSE](./LICENSE) file.
