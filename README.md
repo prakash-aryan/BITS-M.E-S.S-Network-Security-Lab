@@ -57,6 +57,21 @@ Key files:
 
 This lab demonstrates the implementation of cryptographic algorithms and the development of a user-friendly interface for encryption tasks. The application provides a practical tool for understanding basic encryption techniques.
 
+### [Week 4: Lab Four - Configuring Server Firewalls](./LabFour)
+
+In this lab, we focused on configuring firewall rules for servers in a network environment. The main objectives were:
+
+1. Configure Server1 to deny ICMP traffic but allow HTTP/HTTPS traffic
+2. Configure Server0 to allow ICMP traffic but deny HTTP/HTTPS traffic
+3. Implement firewall rules using the GUI in Cisco Packet Tracer
+4. Test and verify the firewall configurations using ping and web browser access
+
+Key files:
+- [Lab4_Server_Firewall_Configuration.pkt](./LabFour/Lab4_Server_Firewall_Configuration.pkt): Cisco Packet Tracer simulation file
+- [README.md](./LabFour/README.md): Detailed lab report, firewall configurations, and test results
+
+This lab demonstrates the implementation of server-level firewall rules to control specific types of network traffic, enhancing network security and service availability control.
+
 ## License
 
 This project is licensed under the terms included in the [LICENSE](./LICENSE) file.
