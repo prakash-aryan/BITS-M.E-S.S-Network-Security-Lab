@@ -304,10 +304,12 @@ exit
 ## Testing
 
 ### Intra-VLAN Communication Test
+![Screenshot 2024-10-08 002312](https://github.com/user-attachments/assets/19906387-8c72-4427-bd24-0544d06cb120)
 
 
 ### Inter-VLAN Communication Test
 
+![Screenshot 2024-10-08 002429](https://github.com/user-attachments/assets/0f49f19e-862b-4dc2-b438-e6b4250d7b1e)
 
 ## Cisco Packet Tracer File
 The complete network setup and configurations can be found in the attached Packet Tracer file: `Lab5_VLAN_Configuration.pkt`
