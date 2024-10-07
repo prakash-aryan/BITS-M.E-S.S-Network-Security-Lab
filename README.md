@@ -72,6 +72,41 @@ Key files:
 
 This lab demonstrates the implementation of server-level firewall rules to control specific types of network traffic, enhancing network security and service availability control.
 
+
+Certainly! I'll update the README to include information about LabFive. Here's the revised version with the new section added:
+
+# Network Security Course Assignments
+
+## Introduction
+
+This repository contains assignments and lab work for the CS G513 NETWORK SECURITY course, part of the Masters of Engineering in Software Systems program at Birla Institute of Technology and Science, Pilani- Dubai Campus.
+
+Student: Prakash Aryan
+
+## Assignments
+
+[Previous lab descriptions remain unchanged]
+
+### [Week 5: Lab Five - VLAN Configuration and Inter-VLAN Routing](./LabFive)
+
+In this lab, we implemented a complex network topology with VLANs. The main objectives were:
+
+1. Configure a network using the IP address range 193.175.12.0/26
+2. Create 4 subnets with specific VLAN configurations:
+   - 1st subnet: 3 VLANs with 9 PCs total
+   - 2nd subnet: 2 VLANs with 8 PCs total
+   - 3rd subnet: 2 VLANs with 8 PCs total
+   - 4th subnet: 3 VLANs with 9 PCs total
+3. Test and verify VLAN segmentation and inter-VLAN communication
+
+Key files:
+- [Lab5_VLAN_Configuration.pkt](./LabFive/Lab5_VLAN_Configuration.pkt): Cisco Packet Tracer simulation file
+- [README.md](./LabFive/README.md): Detailed lab report, VLAN configurations, IP addressing scheme, and test results
+- [network_topology.png](./LabFive/network_topology.png): Screenshot of the network topology
+
+This lab demonstrates advanced network segmentation techniques using VLANs, proper IP subnetting. 
+
+
 ## License
 
 This project is licensed under the terms included in the [LICENSE](./LICENSE) file.
