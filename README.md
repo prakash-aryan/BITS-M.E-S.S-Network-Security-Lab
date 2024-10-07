@@ -61,8 +61,8 @@ This lab demonstrates the implementation of cryptographic algorithms and the dev
 
 In this lab, we focused on configuring firewall rules for servers in a network environment. The main objectives were:
 
-1. Configure Server1 to deny ICMP traffic but allow HTTP/HTTPS traffic
-2. Configure Server0 to allow ICMP traffic but deny HTTP/HTTPS traffic
+1. Configure Server1 to deny ICMP traffic but allow HTTP traffic
+2. Configure Server0 to allow ICMP traffic but deny HTTP traffic
 3. Implement firewall rules using the GUI in Cisco Packet Tracer
 4. Test and verify the firewall configurations using ping and web browser access
 
