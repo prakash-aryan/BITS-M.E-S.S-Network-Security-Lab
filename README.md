@@ -72,21 +72,6 @@ Key files:
 
 This lab demonstrates the implementation of server-level firewall rules to control specific types of network traffic, enhancing network security and service availability control.
 
-
-Certainly! I'll update the README to include information about LabFive. Here's the revised version with the new section added:
-
-# Network Security Course Assignments
-
-## Introduction
-
-This repository contains assignments and lab work for the CS G513 NETWORK SECURITY course, part of the Masters of Engineering in Software Systems program at Birla Institute of Technology and Science, Pilani- Dubai Campus.
-
-Student: Prakash Aryan
-
-## Assignments
-
-[Previous lab descriptions remain unchanged]
-
 ### [Week 5: Lab Five - VLAN Configuration and Inter-VLAN Routing](./LabFive)
 
 In this lab, we implemented a complex network topology with VLANs. The main objectives were:
