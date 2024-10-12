@@ -60,10 +60,15 @@ This application is implemented in Rust using the `eframe` library for the graph
 - Reset functionality to clear all inputs
 
 ### Binary Mode Example
+![Screenshot 2024-10-12 192710](https://github.com/user-attachments/assets/bb3a13eb-fbb9-4477-8659-bed8e74ff7f3)
+
+![Screenshot 2024-10-12 192746](https://github.com/user-attachments/assets/798f91fc-a3b3-4c7e-b95e-b3c3548c5ee6)
+
 
 
 ### String Mode Example
 
+![Screenshot 2024-10-12 192819](https://github.com/user-attachments/assets/b4876b44-e07c-4f83-af22-99098cc7ba6e)
 
 
 ## Project Structure
