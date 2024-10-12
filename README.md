@@ -91,6 +91,34 @@ Key files:
 
 This lab demonstrates advanced network segmentation techniques using VLANs, proper IP subnetting. 
 
+### [Week 6: Lab Six - RC4 Cipher Application](./LabSix)
+
+In this lab, we developed a Rust-based application that implements the RC4 (Rivest Cipher 4) stream cipher algorithm. The main objectives were:
+
+1. Implement the RC4 algorithm for both binary and string inputs
+2. Create a graphical user interface for the RC4 cipher application
+3. Provide encryption and decryption functionality in both binary and string modes
+4. Visualize the Key Scheduling Algorithm (KSA) and Pseudo-Random Generation Algorithm (PRGA) steps
+
+Key files:
+- [src/main.rs](./LabSix/src/main.rs): Main Rust source code for the RC4 cipher application
+- [rc4_cipher_app.exe](./LabSix/rc4_cipher_app.exe): Executable file for Windows
+- [README.md](./LabSix/README.md): Detailed explanation of the RC4 algorithm and application usage
+
+This lab demonstrates the implementation of a more advanced cryptographic algorithm (RC4) and the development of a versatile application that can handle both binary and string inputs. The application provides a practical tool for understanding stream ciphers and their implementation in cryptography.
+
+Key features of the RC4 Cipher Application:
+- Toggle between Binary and String modes
+- Input fields for plaintext and key
+- Encryption and decryption functionality
+- Display of ciphertext (binary or hexadecimal)
+- Display of decrypted text
+- Visualization of KSA and PRGA steps
+- Reset functionality to clear all inputs
+
+The application offers a user-friendly interface for encrypting and decrypting messages using the RC4 algorithm, making it an excellent educational tool for understanding stream ciphers in practice.
+
+
 
 ## License
 
